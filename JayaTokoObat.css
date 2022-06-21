@@ -1,0 +1,206 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: arial;
+    background: linear-gradient(90deg, orange, yellow);
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+}
+
+
+@media screen and (min-width: 280px){
+    a{
+        text-decoration: none;
+        display: block;
+        text-align: center;
+        font-size: 30px;
+        width: 300px;
+        margin: auto;
+        margin-top: 30px;
+    }
+    
+    .pembungkus{
+        margin: 50% 0 0;
+    }
+    .shopee{
+        border: 1px solid black;
+        color: white;
+        background: rgb(255, 0, 0);
+    }
+    
+    .shopee:hover{
+        border: orange;
+        background-color: orange;
+        color: black;
+        border: 1px solid rgb(216, 147, 18);
+    }
+    .instagram{
+        border: 1px solid black;
+        color: blueviolet;
+        background: violet;
+    }
+    
+    .instagram:hover{
+        background: linear-gradient(violet, rgb(151, 7, 151));
+        color: rgba(255, 255, 255, 0.844);
+    }
+    .wa{
+        border: 1px solid black;
+        color: green;
+        background: linear-gradient(rgb(0, 255, 187), rgb(187, 255, 0));
+    }
+    .wa:hover{
+        border: 1px solid black;
+        background: #00FF00;
+        color: black;
+    }
+    .obat{
+        border-radius: 100%;
+        width: 100px;
+        height: 100px;
+        border: 5px solid black;
+        margin: auto;
+        display: block;
+        margin-top: 10px;
+    }
+    
+    .Judul{
+        text-align: center;
+        margin-top: 3px;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .pembungkus{
+        margin: 30% 0 0;
+    }
+    h1{
+        font-size: 50px;
+    }
+    a{
+        text-decoration: none;
+        display: block;
+        text-align: center;
+        font-size: 50px;
+        width: 500px;
+        margin: auto;
+        margin-top: 30px;
+    }
+    
+    .shopee{
+        border: 1px solid black;
+        color: white;
+        background: rgb(255, 0, 0);
+    }
+    
+    .shopee:hover{
+        border: orange;
+        background-color: orange;
+        color: black;
+        border: 1px solid rgb(216, 147, 18);
+    }
+    .instagram{
+        border: 1px solid black;
+        color: blueviolet;
+        background: violet;
+    }
+    
+    .instagram:hover{
+        background: linear-gradient(violet, rgb(151, 7, 151));
+        color: rgba(255, 255, 255, 0.844);
+    }
+    .wa{
+        border: 1px solid black;
+        color: green;
+        background: linear-gradient(rgb(0, 255, 187), rgb(187, 255, 0));
+    }
+    .wa:hover{
+        border: 1px solid black;
+        background: #00FF00;
+        color: black;
+    }
+    .obat{
+        border-radius: 100%;
+        width: 200px;
+        height: 200px;
+        border: 5px solid black;
+        margin: auto;
+        display: block;
+        margin-top: 10px;
+    }
+    
+    .Judul{
+        text-align: center;
+        margin-top: 3px;
+    }
+}
+@media screen and (min-width: 1000px){
+    .pembungkus{
+        margin: 10% 0 0;
+    }
+    h1{
+        font-size: 40px;
+    }
+    a{
+        text-decoration: none;
+        display: block;
+        text-align: center;
+        font-size: 40px;
+        width: 400px;
+        margin: auto;
+        margin-top: 30px;
+    }
+    
+    .shopee{
+        border: 1px solid black;
+        color: white;
+        background: rgb(255, 0, 0);
+    }
+    
+    .shopee:hover{
+        border: orange;
+        background-color: orange;
+        color: black;
+        border: 1px solid rgb(216, 147, 18);
+    }
+    .instagram{
+        border: 1px solid black;
+        color: blueviolet;
+        background: violet;
+    }
+    
+    .instagram:hover{
+        background: linear-gradient(violet, rgb(151, 7, 151));
+        color: rgba(255, 255, 255, 0.844);
+    }
+    .wa{
+        border: 1px solid black;
+        color: green;
+        background: linear-gradient(rgb(0, 255, 187), rgb(187, 255, 0));
+    }
+    .wa:hover{
+        border: 1px solid black;
+        background: #00FF00;
+        color: black;
+    }
+    .obat{
+        border-radius: 100%;
+        width: 200px;
+        height: 200px;
+        border: 5px solid black;
+        margin: auto;
+        display: block;
+        margin-top: 10px;
+    }
+    
+    .Judul{
+        text-align: center;
+        margin-top: 3px;
+    }
+}
+    
+
+
